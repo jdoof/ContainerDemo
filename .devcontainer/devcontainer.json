@@ -38,7 +38,5 @@
 	"remoteUser": "node",
 	"features": {
 		"git": "os-provided",
-		"github-cli": "latest",
-		"azure-cli": "latest"
 	}
 }
